@@ -51,5 +51,27 @@ Uploaded CSV files must contain the required columns described in the applicatio
 ## Project Status
 Beginner portfolio project. Features and documentation may be improved as the project develops.
 
+
+## 📸 Dashboard Screenshots
+
+### 1. Dashboard Overview
+![Dashboard Overview](screenshots/dashboard.png)
+
+### 2. Sales Performance
+![Sales Performance](screenshots/salesperformance.png)
+
+### 3. Monthly Revenue and Profit
+![Monthly Revenue and Profit](screenshots/revenue.png)
+
+### 4. Top Products
+![Top Products](screenshots/products.png)
+
+### 5. Sales Records
+![Sales Records](screenshots/salesrecords.png)
+
+### 6. Download Filtered Sales as CSV
+![Download](screenshots/downloadfilteredsalesascsv.png)
+
+
 ## Author
 Zainab
