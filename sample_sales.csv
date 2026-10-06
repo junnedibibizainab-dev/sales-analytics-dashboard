@@ -1,0 +1,26 @@
+
+order_id,order_date,product,category,region,quantity,unit_price,unit_cost,sales_rep
+1001,2026-01-05,Laptop,Electronics,South,2,65000,52000,Asha
+1002,2026-01-08,Mouse,Accessories,North,10,700,350,Rahul
+1003,2026-01-12,Office Chair,Furniture,East,3,8500,6000,Neha
+1004,2026-01-18,Keyboard,Accessories,West,5,1500,800,Asha
+1005,2026-01-22,Monitor,Electronics,South,4,12000,9000,Rahul
+1006,2026-02-03,Desk,Furniture,North,2,15000,11000,Neha
+1007,2026-02-07,Laptop,Electronics,East,1,65000,52000,Asha
+1008,2026-02-11,Mouse,Accessories,West,15,700,350,Rahul
+1009,2026-02-16,Monitor,Electronics,South,3,12000,9000,Neha
+1010,2026-02-24,Office Chair,Furniture,North,4,8500,6000,Asha
+1011,2026-03-02,Keyboard,Accessories,East,8,1500,800,Rahul
+1012,2026-03-06,Laptop,Electronics,West,2,65000,52000,Neha
+1013,2026-03-10,Desk,Furniture,South,3,15000,11000,Asha
+1014,2026-03-15,Mouse,Accessories,North,12,700,350,Rahul
+1015,2026-03-20,Monitor,Electronics,East,5,12000,9000,Neha
+1016,2026-04-04,Office Chair,Furniture,West,6,8500,6000,Asha
+1017,2026-04-09,Laptop,Electronics,South,1,65000,52000,Rahul
+1018,2026-04-13,Keyboard,Accessories,North,10,1500,800,Neha
+1019,2026-04-18,Desk,Furniture,East,2,15000,11000,Asha
+1020,2026-04-25,Mouse,Accessories,West,20,700,350,Rahul
+1021,2026-05-03,Monitor,Electronics,North,4,12000,9000,Neha
+1022,2026-05-09,Laptop,Electronics,East,1,65000,52000,Asha
+1023,2026-05-14,Office Chair,Furniture,South,3,8500,6000,Rahul
+1024,2026-05-21,Keyboard,Accessories,West,6,1500,800,Neha
